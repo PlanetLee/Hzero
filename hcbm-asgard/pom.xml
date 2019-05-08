@@ -9,15 +9,10 @@
         <version>0.8.0.RELEASE</version>
     </parent>
     <groupId>org.hcbm</groupId>
-<<<<<<< HEAD
+
     <artifactId>hcbm-asgard</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>hcbm-asgard</name>
-=======
-    <artifactId>hcbm-gateway-helper</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
-    <name>hcbm-gateway-helper</name>
->>>>>>> ce2beb761a72fc1b1327b3c4ea41bd75ef00f279
 
     <dependencies>
         <!-- 数据库驱动 -->
@@ -29,11 +24,7 @@
         <!-- 依赖的服务 -->
         <dependency>
             <groupId>org.hzero</groupId>
-<<<<<<< HEAD
             <artifactId>hzero-asgard</artifactId>
-=======
-            <artifactId>hzero-gateway-helper</artifactId>
->>>>>>> ce2beb761a72fc1b1327b3c4ea41bd75ef00f279
             <version>0.8.0.RELEASE</version>
         </dependency>
 
